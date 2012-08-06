@@ -1,0 +1,7 @@
+"" yadr-appearance.vim override
+""
+" Make it beautiful - colors and fonts
+if has("gui_running")
+  set guifont=Inconsolata:h16,Monaco:h14
+endif
+
