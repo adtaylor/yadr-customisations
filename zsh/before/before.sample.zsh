@@ -12,7 +12,7 @@ plugins=(osx ruby vagrant $plugins)
 plugins=(osx ruby vagrant)
 
 # set your theme.
-export ZSH_THEME="kennethreitz"
+# export ZSH_THEME="kennethreitz"
 
 # Alias git to hub
 eval "$(hub alias -s)"
